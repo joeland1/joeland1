@@ -11,7 +11,12 @@ Group | Position
 
 #### Projects:
 
-Most of what I do is in python. I do have some knowledge about Java and Javascript. I have some stuff lying around, but nothing worth uploading.  I kinda know bash as well, but only for the simple stuff.
+I have experience with the following languages:
+* Python
+* Java
+* Javascript
+* Bash
+* C++ (just started)
 
 Projects | Description | Status
 -------- | ----------- | ------
