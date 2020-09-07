@@ -1,4 +1,4 @@
-####About Me:
+#### About Me:
     
 Just a kid online havin a bit of fun and hopping around. Currently working on discord bots and cryptocurrencies. Looking at game dev and c++ coding (blockchain and qt) for future projects. Just a bit of a warning, I'm all self-taught. You might have seen me in some of these places.
 
@@ -9,7 +9,7 @@ Group | Position
 [Sugarchain](https://sugarchain.org/)|Bot Dev
 [Gameranx](https://discord.com/invite/gameranx)|Moderator
 
-####Projects:
+#### Projects:
 
 Most of what I do is in python. I do have some knowledge about Java and Javascript. I have some stuff lying around, but nothing worth uploading.  I kinda know bash as well, but only for the simple stuff.
 
