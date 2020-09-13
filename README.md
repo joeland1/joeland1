@@ -9,6 +9,11 @@ Group | Position
 [Sugarchain](https://sugarchain.org/)|Bot Dev
 [Gameranx](https://discord.com/invite/gameranx)|Moderator
 
+#### Contact Me:
+
+* Discord: joe_land1#1088 <@665413544837120041>
+* Email: joe_land1@protonmail.com
+
 #### Projects:
 
 I have experience with the following languages:
@@ -25,7 +30,4 @@ Projects | Description | Status
 [Joe Bot](https://github.com/joeland1/aboutme)|A simple bot made for "joe". Uses docker and basic wizard settup|In development, not public
 Artstation Scraper|Scraped Images from Artstation website without API|Discontinued, could search and go through images in order only, made in js
 
-Contact Me:
 
-* Discord: joe_land1#1088 <@665413544837120041>
-* Email: joe_land1@protonmail.com
